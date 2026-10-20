@@ -1,0 +1,4 @@
+data/
+__pycache__/
+results/customer_segments.csv
+results/*.png
