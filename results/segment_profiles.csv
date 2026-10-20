@@ -1,0 +1,5 @@
+cluster,customers,recency_days,orders,revenue,aov,products,total_revenue,share_customers,share_revenue,action
+Champions,962,14.0,8.0,3087.3,405.2,117.0,4393345.4,0.223,0.668,"VIP perks, early access, referral asks - protect, don't discount"
+Loyal Regulars,1137,23.0,3.0,745.1,234.8,46.0,937925.8,0.264,0.143,Cross-sell bundles and loyalty points to move them up a tier
+Needs Attention,1180,122.0,1.0,609.4,402.5,29.0,1046730.3,0.274,0.159,"Personalised win-back email within 30 days, time-limited offer"
+Lapsed / Lost,1033,152.0,1.0,172.2,140.3,10.0,202437.5,0.24,0.031,Low-cost reactivation campaign only; suppress from paid channels
